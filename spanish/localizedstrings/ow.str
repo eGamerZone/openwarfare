@@ -205,104 +205,104 @@ LANG_SPANISH "Has conseguido la ultima baja con la ultima arma!!!"
 // maps/mp/gametypes/gr.gsc
 //******************************************************************************
 REFERENCE GREED
-LANG_ENGLISH "Greed"
+LANG_SPANISH "Greed"
 
 REFERENCE OBJECTIVES_GR
-LANG_ENGLISH "Collect dogtags and deliver them to the drop zone."
+LANG_SPANISH "Recoge chapas de identificación y entrégalas en la zona de entrega."
 
 REFERENCE OBJECTIVES_GR_SCORE
-LANG_ENGLISH "Collect dogtags and deliver them to the drop zone. First player with &&1 points wins."
+LANG_SPANISH "Recoge chapas de identificación y entrégalas en la zona de entrega. El primer jugador &&1 puntos ganará."
 
 REFERENCE OBJECTIVES_GR_HINT
-LANG_ENGLISH "Collect dogtags and deliver them to the drop zone."
+LANG_SPANISH "Recoge chapas de identificación y entrégalas en la zona de entrega."
 
 REFERENCE DOGTAGS_CAPTURED_BY
-LANG_ENGLISH "^3&&1^7 has captured ^3&&2^7 dogtag(s)."
+LANG_SPANISH "^3&&1^7 ha recogido ^3&&2^7 chapa(s) de identificación."
 
 REFERENCE GR_DROPZONES_RELOCATING_IN
-LANG_ENGLISH "Drop zones re-locating in &&1"
+LANG_SPANISH "Base reubicada en &&1"
 
 REFERENCE GR_DROPZONE_RELOCATING_IN
-LANG_ENGLISH "Drop zone re-locating in &&1"
+LANG_SPANISH "Base reubicada en &&1"
 
 
 //******************************************************************************
 // maps/mp/gametypes/hns.gsc
 //******************************************************************************
 REFERENCE HIDEANDSEEK
-LANG_ENGLISH "Hide And Seek"
+LANG_SPANISH "Hide And Seek"
 
 REFERENCE PROPS_SHORT
-LANG_ENGLISH "Props"
+LANG_SPANISH "Objetos"
 
 REFERENCE CHOOSE_CLASS_PROP
-LANG_ENGLISH "Choose Prop Class"
+LANG_SPANISH "Elije el tipo de objeto"
 
 REFERENCE OBJECTIVES_HNS_ATTACKER
-LANG_ENGLISH "Hunt down and kill the props."
+LANG_SPANISH "Elimina los objetos vivientes."
 
 REFERENCE OBJECTIVES_HNS_ATTACKER_SCORE
-LANG_ENGLISH "Hunt down and kill the props.  First team to &&1 wins."
+LANG_SPANISH "Elimina los objetos vivientes. El primer equipo &&1 ganará."
 
 REFERENCE OBJECTIVES_HNS_ATTACKER_HINT
-LANG_ENGLISH "Hunt down and kill the props."
+LANG_SPANISH "Elimina los objetos vivientes."
 
 REFERENCE OBJECTIVES_HNS_DEFENDER
-LANG_ENGLISH "Survive by hiding from the hunters."
+LANG_SPANISH "Sobrevive escondiendote de los cazadores."
 
 REFERENCE OBJECTIVES_HNS_DEFENDER_SCORE
-LANG_ENGLISH "Survive by hiding from the hunters. First team to &&1 wins."
+LANG_SPANISH "Sobrevive escondiendote de los cazadores. El primer equipo &&1 ganará."
 
 REFERENCE OBJECTIVES_HNS_DEFENDER_HINT
-LANG_ENGLISH "Survive by hiding from the hunters."
+LANG_SPANISH "Sobrevive escondiendote de los cazadores."
 
 REFERENCE PROPS_WIN
-LANG_ENGLISH "Props win!"
+LANG_SPANISH "¡Los objetos ganan!"
 
 REFERENCE PROPS_WIN_MATCH
-LANG_ENGLISH "Props have won the match!"
+LANG_SPANISH "¡Los objetos ganan la partida!"
 
 REFERENCE PROPS_WIN_ROUND
-LANG_ENGLISH "Props have won the round!"
+LANG_SPANISH "¡Los objetos ganan la ronda!"
 
 REFERENCE  PROPS_MISSION_ACCOMPLISHED
-LANG_ENGLISH  "Props mission accomplished"
+LANG_SPANISH  "Los objetos cumplen la misión"
 
 REFERENCE PROPS_ELIMINATED
-LANG_ENGLISH  "Props eliminated"
+LANG_SPANISH  "Objetos vivientes eliminados"
 
 REFERENCE PROPS_FORFEITED
-LANG_ENGLISH "Props forfeited"
+LANG_SPANISH "Objetos vivientes perdidos"
 
 REFERENCE PROPS_HIDING_TIME
-LANG_ENGLISH "Hunting starts in &&1"
+LANG_SPANISH "Los cazadores comienzan en &&1"
 
 REFERENCE MAXIMUM_MORPHS_REACHED
-LANG_ENGLISH "You are allowed to morph only ^3&&1^7 times within the same round."
+LANG_SPANISH "Solo se te permite transformarte  ^3&&1^7 veces en la misma ronda."
 
 REFERENCE PROPS_HINT_LINE1
-LANG_ENGLISH "Press ^3[{openscriptmenu modkeybind zoomin}]^7 and ^3[{openscriptmenu modkeybind zoomout}]^7 to rotate the prop model."
+LANG_SPANISH "Presiona ^3[{openscriptmenu modkeybind zoomin}]^7 y ^3[{openscriptmenu modkeybind zoomout}]^7 para girar."
 
 REFERENCE PROPS_HINT_LINE2
-LANG_ENGLISH "Press ^3[{+attack}]^7 to align the prop model with your view."
+LANG_SPANISH "Presiona ^3[{+attack}]^7 para alinearte con tu vista."
 
 REFERENCE PROPS_HINT_LINE3
-LANG_ENGLISH "Press ^3[{+melee}]^7 to quickly select a new prop model."
+LANG_SPANISH "Presiona ^3[{+melee}]^7 para seleccionar otro objeto rápidamente."
 
 REFERENCE PROPS_HINT_LINE4
-LANG_ENGLISH "Remember to go ^3Prone^7 and ^3Crouch^7 to reduce your hit area."
+LANG_SPANISH "Recuerda colocate ^3tumbado^7 o ^3agachado^7 para reducir el area de impacto."
 
 REFERENCE PROPS_HINT_LINE5
-LANG_ENGLISH "Remember that you can throw back enemy grenades!"
+LANG_SPANISH "¡Recuerda que puedes lanzar de vuelta las granadas enemigas!"
 
 REFERENCE HUMANS_HINT_LINE1
-LANG_ENGLISH "It's best if you use the ^3Bandolier^7 perk to have enough ammo."
+LANG_SPANISH "Lo mejor es que uses la ventaja ^3Bandolera^7 para tener suficiente munición."
 
 REFERENCE HUMANS_HINT_LINE2
-LANG_ENGLISH "Remember that Props come in all sizes and shapes and they are very sneaky!"
+LANG_SPANISH "¡Recuerda que los objetos vivientes vienen en todos los tamaños y formas! Son muy escurridizos"
 
 REFERENCE HUMANS_HINT_LINE3
-LANG_ENGLISH "Be careful! Props can throw back your grenades so stay alert."
+LANG_SPANISH "¡Cuidado! Los objetos vivientes pueden devolverte las granadas. Mantente alerta."
 
 
 //******************************************************************************
@@ -341,19 +341,19 @@ LANG_SPANISH "Eliminar todos los jugadores enemigos."
 // maps/mp/gametypes/oitc.gsc
 //******************************************************************************
 REFERENCE ONEINTHECHAMBER
-LANG_ENGLISH "One In The Chamber"
+LANG_SPANISH "Una en el cardador"
 
 REFERENCE OBJECTIVES_ONEINTHECHAMBER
-LANG_ENGLISH "Eliminate all the other players."
+LANG_SPANISH "Elimina a todos los jugadores."
 
 REFERENCE OBJECTIVES_ONEINTHECHAMBER_SCORE
-LANG_ENGLISH "Eliminate all the other players. First player with &&1 points wins."
+LANG_SPANISH "Elimina a todos los jugadores. El primer jugador con &&1 puntos ganará."
 
 REFERENCE OBJECTIVES_ONEINTHECHAMBER_HINT
-LANG_ENGLISH "Eliminate all the other players."
+LANG_SPANISH "Elimina a todos los jugadores."
 
 REFERENCE UAV_ON
-LANG_ENGLISH "UAV Activated Permanently"
+LANG_SPANISH "UAV activado de forma permanente"
 
 
 //******************************************************************************
@@ -412,19 +412,19 @@ LANG_SPANISH "Todos los objetivos han sido recuperados."
 // maps/mp/gametypes/ss.gsc
 //******************************************************************************
 REFERENCE SHARPSHOOTER
-LANG_ENGLISH "Sharp Shooter"
+LANG_SPANISH "Sharp Shooter"
 
 REFERENCE OBJECTIVES_SHARPSHOOTER
-LANG_ENGLISH "Gain points by eliminating other players."
+LANG_SPANISH "Gana puntos eliminando a otros jugadores."
 
 REFERENCE OBJECTIVES_SHARPSHOOTER_SCORE
-LANG_ENGLISH "Gain points by eliminating other players.  First player to &&1 points wins."
+LANG_SPANISH "Gana puntos eliminando a otros jugadores. El primer jugador con &&1 puntos ganará."
 
 REFERENCE OBJECTIVES_SHARPSHOOTER_HINT
-LANG_ENGLISH "Eliminate all the other players."
+LANG_SPANISH "Elimina a todos los jugadores."
 
 REFERENCE SHARPSHOOTER_CLYCLING_IN
-LANG_ENGLISH "Weapons cycling in &&1"
+LANG_SPANISH "El arma cambiará en &&1"
 
 
 //******************************************************************************
@@ -625,7 +625,7 @@ LANG_SPANISH "^1Jugador ^7&&1 ^1ha sido elegido objetivo del exterminio!"
 // openwarfare/_advancedmvs.gsc
 //******************************************************************************
 REFERENCE   AMVS_TITLE
-LANG_SPANISH "Advanced Map Voting"
+LANG_SPANISH "Votación de mapa avanzada"
 
 REFERENCE   AMVS_GAMETYPE
 LANG_SPANISH "Vota el tipo de juego"
@@ -698,7 +698,7 @@ REFERENCE CAP_INITIALIZING
 LANG_SPANISH "Abriendo ^3Personaliza tu Jugador..."
 
 REFERENCE CAP_SECONDS_LEFT
-LANG_SPANISH "seconds left in PTJ"
+LANG_SPANISH "segundos restantes en PTJ"
 
 
 //******************************************************************************
@@ -818,10 +818,10 @@ LANG_SPANISH "No quedan granadas para martirio."
 // openwarfare/_numlives.gsc
 //******************************************************************************
 REFERENCE LIVES_LEFT
-LANG_ENGLISH "You have ^3&&1^7 lives remaining..."
+LANG_SPANISH "Tienes ^3&&1^7 vidas restantes..."
 
 REFERENCE LAST_LIFE
-LANG_ENGLISH "This is your last life!"
+LANG_SPANISH "¡Esta es tú última vida!"
 
 
 //******************************************************************************
@@ -1173,23 +1173,23 @@ LANG_SPANISH "Presiona ^1[[{+activate}]] ^7para navegar entre comandos.\nPresion
 // ui_mp/connect.menu
 //******************************************************************************
 REFERENCE BROUGHT2UBY
-LANG_SPANISH "Brought to you by..."
+LANG_SPANISH "Servidor eGamer.Zone"
 
 REFERENCE SERVERPOWEREDBY
-LANG_SPANISH "Server powered by..."
+LANG_SPANISH "Servidor basado en..."
 
 
 //******************************************************************************
 // ui_mp/controls_multi.menu
 //******************************************************************************
 REFERENCE   AACP_MENU
-LANG_SPANISH   "Advanced ACP"
+LANG_SPANISH   "ACP avanzado"
 
 REFERENCE ATTACH_DETACH
 LANG_SPANISH "Poner/Quitar Accesorio"
 
 REFERENCE FIRING_MODE
-LANG_ENGLISH "Switch Firing Mode"
+LANG_SPANISH "Cambiar selector de tiro"
 
 REFERENCE BANDAGE
 LANG_SPANISH "Vendaje"
@@ -1232,13 +1232,13 @@ LANG_SPANISH "Alternar Estadisticas"
 // ui_mp/hud.menu
 //******************************************************************************
 REFERENCE LB_ROUND
-LANG_ENGLISH " - Round #&&1"
+LANG_SPANISH " - Ronda #&&1"
 
 REFERENCE LB_NO_PLAYERS
-LANG_ENGLISH "Waiting for Players"
+LANG_SPANISH "Esperando jugadores"
 
 REFERENCE STATS_ACCURACY
-LANG_SPANISH "Precision"
+LANG_SPANISH "Precisión"
 
 REFERENCE STATS_KDRATIO
 LANG_SPANISH "Ratio: Bajas/Muertes"
@@ -1371,7 +1371,7 @@ LANG_SPANISH "Editor de clases personalizadas"
 // ui_mp/scriptmenus/team_marinesopfor.menu
 //******************************************************************************
 REFERENCE BROADCASTER
-LANG_ENGLISH "Broadcaster"
+LANG_SPANISH "Broadcaster"
 
 
 //******************************************************************************
